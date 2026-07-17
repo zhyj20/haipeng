@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.haipengsaidao.com/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.haipengsaidao.com/assets/hero-track-map.png</image:loc>
+      <image:title>海朋赛道智略赛道地图视觉</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.haipengsaidao.com/assets/entrepreneurship-strategy-book.jpg</image:loc>
+      <image:title>赵剑海著作创业战略封面</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.haipengsaidao.com/assets/zhao-jianhai-gzist-01.jpg</image:loc>
+      <image:title>赵剑海博士创业赛道战略选择专题讲座</image:title>
+    </image:image>
+  </url>
+</urlset>

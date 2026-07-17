@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /llms.txt
+Allow: /sitemap.xml
+Allow: /assets/
+
+Sitemap: https://www.haipengsaidao.com/sitemap.xml

@@ -1,0 +1,5 @@
+qa/
+.server-*.log
+*.zip
+Thumbs.db
+.DS_Store

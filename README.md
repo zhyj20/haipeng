@@ -1,3 +1,27 @@
-# haipeng
+# 海朋赛道智略官网首页
 
-Initial commit for GitHub Pages deployment.
+本目录为可独立运行的静态官网首页，包含响应式页面、公开信源、结构化数据和搜索抓取辅助文件。
+
+## 客户测试地址
+
+GitHub Pages：<https://zhyj20.github.io/haipeng/>
+
+## 主要文件
+
+- `index.html`：首页结构、内容与结构化数据。
+- `styles.css`：桌面端和移动端样式。
+- `main.js`：移动端菜单与复制公众号功能。
+- `assets/`：赛道地图、赵剑海公开讲座照片和《创业战略》封面。
+- `llms.txt`：机构、人物、方法与引用边界的公开资料。
+- `robots.txt`、`sitemap.xml`：搜索抓取配置。
+
+## 本地运行
+
+在本目录启动静态文件服务后访问首页。直接打开 `index.html` 也可浏览主要内容，但本地服务更适合完整测试。
+
+## 正式上线前确认
+
+- `https://www.haipengsaidao.com/` 是否为最终域名。
+- `zhaojh@happen.vc` 是否继续作为公开咨询邮箱。
+- 凡拓数创、虚拟动力案例名称与表述是否已取得对外发布授权。
+- 图片版权、备案信息、隐私与法律声明是否齐备。
