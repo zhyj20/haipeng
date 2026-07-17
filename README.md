@@ -12,7 +12,7 @@ GitHub Pages：<https://zhyj20.github.io/haipeng/>
 - `styles.css`：桌面端和移动端样式。
 - `main.js`：移动端菜单与复制公众号功能。
 - `assets/`：赛道地图、赵剑海公开讲座照片和《创业战略》封面。
-- `llms.txt`：机构、人物、方法与引用边界的公开资料。
+- `llms.txt`：机构、人物、方法与资料来源说明。
 - `robots.txt`、`sitemap.xml`：搜索抓取配置。
 
 ## 本地运行
