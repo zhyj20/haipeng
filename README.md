@@ -11,7 +11,8 @@ GitHub Pages：<https://zhyj20.github.io/haipeng/>
 - `index.html`：首页结构、栏目内容与结构化数据。
 - `articles.html`：资讯内容中心，支持分类、检索和分页。
 - `article.html`：文章详情页模板。
-- `content/articles.js`：资讯内容数据源，文章、日期、分类、标签与原始链接集中维护。
+- `content/articles.js`：有来源的公开报道与既有文章数据。
+- `content/source-articles.js`：根据作者提供文稿拆分的文章库；文稿原件不进入公开仓库。
 - `cms.js`：内容中心与文章详情页的渲染逻辑。
 - `styles.css`：桌面端和移动端样式。
 - `main.js`：移动端菜单与复制公众号功能。
@@ -28,4 +29,5 @@ GitHub Pages：<https://zhyj20.github.io/haipeng/>
 - `https://www.haipengsaidao.com/` 是否为最终域名。
 - `zhaojh@happen.vc` 是否继续作为公开咨询邮箱。
 - 凡拓数创、虚拟动力案例名称与表述是否已取得对外发布授权。
+- 作者文稿中涉及企业、人物、项目和数据的判断，发布前仍应以相关主体公开信息复核。
 - 图片版权、备案信息、隐私与法律声明是否齐备。
